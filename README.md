@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist yii2cmf/yii2-user-module "*"
+php composer.phar require --prefer-dist yii2cmf/yii2-user-models "*"
 ```
 
 or add
 
 ```
-"yii2cmf/yii2-user-module": "*"
+"yii2cmf/yii2-user-models": "*"
 ```
 
 to the require section of your `composer.json` file.
