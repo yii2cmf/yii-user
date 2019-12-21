@@ -1,6 +1,6 @@
 <?php
 
-namespace yii2cmf\models\user;
+namespace yii2cmf\models;
 
 use Yii;
 
