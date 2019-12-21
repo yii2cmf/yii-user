@@ -1,0 +1,21 @@
+{
+    "name": "yii2cmf/yii2-user-module",
+    "description": "...",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","user","module"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shandyrov",
+            "email": "shandyrov@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "yii2cmf\\modules\\user\\": "src"
+        }
+    }
+}
