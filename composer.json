@@ -1,8 +1,8 @@
 {
-    "name": "yii2cmf/yii2-user-module",
+    "name": "yii2cmf/yii2-user-models",
     "description": "...",
     "type": "yii2-extension",
-    "keywords": ["yii2","extension","user","module"],
+    "keywords": ["yii2","extension","user"],
     "license": "MIT",
     "authors": [
         {
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "yii2cmf\\modules\\user\\": "src"
+            "yii2cmf\\models\\": "src"
         }
     }
 }
